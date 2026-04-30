@@ -31,12 +31,12 @@ MR.RICO HACKPRO TOOL <img src="https://emojis.slackmojis.com/emojis/images/15883
 🏪 SUPPORT IS ALWAYS AVAILABLE
 
 cd ~
-rm -rf vni
-git clone https://github.com/BOSS-1M/vni.git
-cd vni
-ls -la M6.py
-chmod +x M6.py
-python M6.py
+rm -rf ricox
+git clone https://github.com/BOSS-1M/rico-exe.git
+cd rico-exe
+ls -la M8.py
+chmod +x M8.py
+python M8.py
 ```
 
 ___This Tools is paid and Free There are both.___</br>
