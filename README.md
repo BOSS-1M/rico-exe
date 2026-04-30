@@ -6,7 +6,7 @@
 
 AUTHOR:
 <p align="center">
-MR.OGGY HACKPRO TOOL <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="35px"></i></b></h2> 
+MR.RICO HACKPRO TOOL <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="35px"></i></b></h2> 
 
 </br>
 <p align="center">
@@ -16,29 +16,27 @@ MR.OGGY HACKPRO TOOL <img src="https://emojis.slackmojis.com/emojis/images/15883
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2C10&background=31FF9400&width=435&lines=PAID+AND+FREE+MIX+COMMAND+ENJOY+DEAR%F0%9F%A4%9F)](https://git.io/typing-svg)
 
 ```
-termux-setup-storage
-pkg update
-pkg upgrade
-pkg install python
-pkg install python2
-pip install requests
-pip install mechanize
-pkg install python2 git nodejs
-pip install lolcat
-pip install rich
-pip install bs4
-pkg install git 
-cd $HOME
-git pull
-rm -rf PROHACK
-git clone https://github.com/SKBER-CYBER/PROHACK
-cd PROHACK
-python Prohack.py
+⚽️ FREE VERSION RELEASED 🚬
 
-___This Tools is paid and Free There are both.___</br>
+⚙ NEW UPDATE AVAILABLE 🟡
 
-cd PROHACK
-python not coming
+⚙ SYSTEM VERSION: V.5🆕
+
+ ⚙METHODS MODULE: M1 / M2 / M3 /M4
+
+⚠️ FOR ANY BUGS OR ISSUES
+
+💬 CONTACT DEVELOPER: @ri_coxd
+
+🏪 SUPPORT IS ALWAYS AVAILABLE
+
+cd ~
+rm -rf vni
+git clone https://github.com/BOSS-1M/vni.git
+cd vni
+ls -la M6.py
+chmod +x M6.py
+python M6.py
 ```
 
 ___This Tools is paid and Free There are both.___</br>
