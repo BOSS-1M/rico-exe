@@ -20,7 +20,7 @@ MR.RICO HACKPRO TOOL <img src="https://emojis.slackmojis.com/emojis/images/15883
 
 ⚙ NEW UPDATE AVAILABLE 🟡
 
-⚙ SYSTEM VERSION: V.5🆕
+⚙ SYSTEM VERSION: V.7🆕
 
  ⚙METHODS MODULE: M1 / M2 / M3 /M4
 
@@ -31,12 +31,12 @@ MR.RICO HACKPRO TOOL <img src="https://emojis.slackmojis.com/emojis/images/15883
 🏪 SUPPORT IS ALWAYS AVAILABLE
 
 cd ~
-rm -rf ricox
+rm -rf MAYAX
 git clone https://github.com/BOSS-1M/rico-exe.git
 cd rico-exe
-ls -la M8.py
-chmod +x M8.py
-python M8.py
+ls -la MAYAX.py
+chmod +x MAYAX.py
+python MAYAX.py
 ```
 
 ___This Tools is paid and Free There are both.___</br>
